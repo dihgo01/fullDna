@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.209",
+        "phpmailer/phpmailer": "^6.5",
+        "league/flysystem-aws-s3-v3": "3.0"
+    }
+}

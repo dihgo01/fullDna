@@ -1,0 +1,1 @@
+<script src="<?php echo WEBURL ?>code/js/all.js"></script>
